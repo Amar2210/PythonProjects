@@ -1,2 +1,2 @@
 # PythonProjects
-Will add all Python based projects in this repor
+Will add all Python based projects in this repo
